@@ -1,0 +1,39 @@
+html,body{
+
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ background-color: #133b5c;
+}
+.containor{
+padding: 300px;
+text-align: center;
+margin-right: 220px;
+}
+#hourid{
+ font-size: 70px;
+ background: #ffe3de;
+ color:black;
+ border-radius: 20%;
+ padding: 50px;
+}
+
+#minuteid{
+ font-size: 70px;
+ background: #f8a1d1;
+ color:black;
+ border-radius: 20%;
+ padding: 50px;
+}
+#secondid{
+font-size: 70px;
+background: #e14594;
+color:white;
+border-radius: 20%;
+padding: 50px;
+}
+
+#tag{
+  font-size: 70px;
+  color:white;
+}
