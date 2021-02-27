@@ -8,7 +8,8 @@ html,body{
 .containor{
 padding: 300px;
 text-align: center;
-margin-right: 220px;
+/* margin-right: 220px; */
+margin: auto;
 }
 #hourid{
  font-size: 70px;
